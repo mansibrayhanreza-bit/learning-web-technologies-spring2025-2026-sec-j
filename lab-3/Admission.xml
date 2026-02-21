@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Admissions>
+  <Student>
+    <SlNo>23</SlNo>
+    <Name>John Carter</Name>
+    <AdmissionDate>25/12/2015</AdmissionDate>
+  </Student>
+  <Student>
+    <SlNo>29</SlNo>
+    <Name>Bob Marshal</Name>
+    <AdmissionDate>13/01/1999</AdmissionDate>
+  </Student>
+  <Student>
+    <SlNo>35</SlNo>
+    <Name>Clark Kent</Name>
+    <AdmissionDate>17/06/2005</AdmissionDate>
+  </Student>
+</Admissions>
